@@ -9,5 +9,5 @@ for i in range(num_numbers):
     number= float(input())
     total += number
 average = total / num_numbers
-print("The average of those number is: ")
+print("The average of those numbers is: ")
 print(average)
